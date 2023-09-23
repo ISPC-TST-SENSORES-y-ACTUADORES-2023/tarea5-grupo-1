@@ -2,5 +2,6 @@
 
 ### `Implementar y simular un circuito que use un sensor Touch capacitivo, por ejemplo TTP223b. Simular con Wokwi, Proteus u otro software.(usando Arduino o ESP32)`
 
+![Simuladores](/assets/proteus.jpeg)![Simulador](/assets/wokwi.png)
 
 ![logo](/assets/BannerElect.png)
