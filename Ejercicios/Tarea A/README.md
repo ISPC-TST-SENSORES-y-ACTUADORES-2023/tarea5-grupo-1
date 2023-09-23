@@ -2,7 +2,7 @@
 
 ### `Explique que es el Código Gray. ¿Cómo se utiliza en los Encoders Absolutos?`
 
-![Alt text](image.png)
+![Alt text](/assets/image.png)
 
 
 ![logo](/assets/BannerElect.png)
