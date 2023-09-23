@@ -3,7 +3,7 @@
 
 # Código
 
-**En esta carpeta se colocaran los codigos realizados para la programación de la estación metereológica**
+**En esta carpeta se colocaran los codigos realizados para la programación**
 
 
 

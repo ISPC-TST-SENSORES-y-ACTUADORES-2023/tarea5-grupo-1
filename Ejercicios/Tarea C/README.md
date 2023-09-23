@@ -9,4 +9,6 @@
 5. Red Hat Openshift  
 6. IBM SmartCloud**
 
+![cloud](/assets/logos.png)
+
 ![logo](/assets/BannerElect.png)
