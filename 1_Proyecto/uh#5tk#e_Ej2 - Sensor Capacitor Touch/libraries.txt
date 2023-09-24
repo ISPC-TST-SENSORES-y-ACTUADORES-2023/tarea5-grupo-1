@@ -1,0 +1,2 @@
+Adafruit FT6206 Library
+TFT_eSPI@wokwi:e05dd5def8f952d3f56c5f0b6f6fcfffe80b6b01

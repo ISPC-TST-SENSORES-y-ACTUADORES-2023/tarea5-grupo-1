@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "author": "Ulises Ale",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 63.35, "left": -127.33, "attrs": {} },
+    { "type": "board-ili9341-cap-touch", "id": "lcd1", "top": 9.22, "left": 61.52, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "lcd1:GND", "esp:GND.1", "black", [ "v39.14", "h-100.15", "v-114.89" ] ],
+    [ "lcd1:CS", "esp:D15", "orange", [ "v28.77", "h-102.34", "v-115.63" ] ],
+    [ "lcd1:RST", "esp:D4", "gold", [ "v22.09", "h-104.53", "v-114.89" ] ],
+    [ "lcd1:D/C", "esp:D2", "blue", [ "v16.16", "h-104.49", "v-114.15" ] ],
+    [ "lcd1:SCK", "esp:D18", "green", [ "v10.23", "h-117.02", "v-158.63" ] ],
+    [ "lcd1:MISO", "esp:D19", "gray", [ "v46.55", "h-176.99", "v-212" ] ],
+    [ "lcd1:MOSI", "esp:D23", "violet", [ "v33.95", "h-159.3", "v-240.16" ] ],
+    [ "esp:VIN", "lcd1:VCC", "red", [ "h-10.84", "v133.05", "h247.33" ] ],
+    [ "lcd1:SCL", "esp:D22", "white", [ "v72.34", "h-137.76", "v-255.36" ] ],
+    [ "lcd1:SDA", "esp:D21", "purple", [ "v81.38", "h-140.58", "v-268.36" ] ]
+  ],
+  "dependencies": {}
+}
