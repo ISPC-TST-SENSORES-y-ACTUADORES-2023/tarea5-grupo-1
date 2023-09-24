@@ -8,5 +8,6 @@
 
 ![Ver posicionamiento](/1_Proyecto/assets/sensor_posicionamiento.png)
 
+![ESP32](/1_Proyecto/assets/esp32_30pinout.jpeg)
 
 ![Logo](/assets/Curso%20ISPC.png)
