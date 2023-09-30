@@ -4,4 +4,9 @@
 
 ![Simuladores](/assets/proteus.jpeg)![Simulador](/assets/wokwi.png)
 
+
+![esp32](/1_Proyecto/assets/esp32_30pinout.jpeg)
+
+![sensor](/1_Proyecto/assets/sensor_posicionamiento.png)
+
 ![logo](/assets/BannerElect.png)
