@@ -4,4 +4,6 @@
 
 ![Simuladores](/assets/proteus.jpeg)![Simulador](/assets/wokwi.png)
 
+![fotodiodo](/Ejercicios%20A%20B%20C%20D%20E/Tarea%20D/Fotodiodo.png)
+
 ![logo](/assets/BannerElect.png)
